@@ -5,3 +5,7 @@ For more information, read here: https://applidium.com/en/news/unbundling_pokemo
 
 If you want to build this project, you will need to get `classes.jar`, that is provided by Unity.
 See in android/lunarconsole/build.gradle how to link to a Unity installation on Mac.
+
+
+
+THIS IS A STUDENT PLAYING WITH THE CODE   NOT A REAL DEVELOPER (yet)   PLEASE DON'T EXPECT MUCH AWESOME STUFF YET
